@@ -1,6 +1,7 @@
 import sys
 import os
 import json
+import arrow # so a ParserError can be handled below
 try:
     from scholarly import scholarly
     from scholarly import ProxyGenerator
@@ -79,7 +80,10 @@ for a in author_list: # could shorten
             pub_titles.append(pub_title)
             if verbose: sys.stdout.write("  " + str(num) + "/" + str(len(author_data['publications'])) + " " + pub_title + "\n")
             if not os.path.exists(fn):
-                article_info = scholarly.fill(pub)
+                try:
+                    article_info = scholarly.fill(pub)
+                except arrow.parser.ParserError:
+                    article_info = ' '
                 with open(fn, "w") as f:
                     json.dump(article_info, f)
 sys.exit(0)
