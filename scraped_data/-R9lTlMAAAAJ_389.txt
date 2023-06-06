@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Digital Soil Assessments and Beyond", "citation": "", "author": "D Clifford and P Kuhnert and J Baldock and NJ McKenzie and I Wheeler and AB McBratney"}, "filled": true, "author_pub_id": "-R9lTlMAAAAJ:yREA-gn6pYwC", "num_citations": 0, "cites_per_year": {}}

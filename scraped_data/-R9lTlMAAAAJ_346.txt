@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Carbon cycling in peat soils in the Australian Alps", "pub_year": 2008, "citation": "", "author": "S Grover and J Baldock"}, "filled": true, "author_pub_id": "-R9lTlMAAAAJ:WA5NYHcadZ8C", "num_citations": 0, "cites_per_year": {}}

@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Paper: ROLE OF THE SOIL MATRIX AND MINERALS IN PROTECTING NATURAL ORGANIC MATERIAL AGAINST BIOLOGICAL ATTACK", "citation": "", "author": "JA BALDOCK and JO SKJEMSTAD"}, "filled": true, "author_pub_id": "-R9lTlMAAAAJ:3xcwCnWquLEC", "num_citations": 0, "cites_per_year": {}}

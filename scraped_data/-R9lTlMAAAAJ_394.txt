@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Evelyn S. Krull, Jeffrey A. Baldock and", "citation": "", "author": "Jan O Skjemstad and Miko UF Kirschbaum and Guillaume Simioni and Belinda E Medlyn and Ross E McMurtrie"}, "filled": true, "author_pub_id": "-R9lTlMAAAAJ:KxtntwgDAa4C", "num_citations": 0, "cites_per_year": {}}

@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Composition of Soil Organic Carbon", "pub_year": 2007, "citation": "Soil Biology, 2007", "author": "Jeffrey A Baldock", "journal": "Soil Biology"}, "filled": true, "author_pub_id": "-R9lTlMAAAAJ:SVv6S0jguFwC", "num_citations": 0, "cites_per_year": {}}

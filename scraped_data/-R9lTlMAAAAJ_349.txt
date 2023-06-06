@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Defining soil carbon", "pub_year": 2007, "citation": "Embrace green re, 2007", "author": "Jeff Baldock and Jan Skjemstad and Evelyn Krull and Kris Broos", "journal": "Embrace green re"}, "filled": true, "author_pub_id": "-R9lTlMAAAAJ:M9BB6krhjY8C", "num_citations": 0, "cites_per_year": {}}
