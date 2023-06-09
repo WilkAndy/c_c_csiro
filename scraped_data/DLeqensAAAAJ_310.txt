@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Soil moisture-plant interactions: an ecohydrological view", "citation": "Journal of Soils and Sediments, 0", "author": "zhang", "journal": "Journal of Soils and Sediments"}, "filled": true, "author_pub_id": "DLeqensAAAAJ:-FonjvnnhkoC", "num_citations": 0, "cites_per_year": {}}

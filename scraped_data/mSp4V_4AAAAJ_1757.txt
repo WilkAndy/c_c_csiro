@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Ion bombardment in radio-frequency glow discharges", "citation": "", "author": "AM Smith and CM Horwitz"}, "filled": true, "author_pub_id": "mSp4V_4AAAAJ:viYOxJONeN0C", "num_citations": 0, "pub_url": "https://inis.iaea.org/search/search.aspx?orig_q=RN:20066836", "cites_per_year": {}}

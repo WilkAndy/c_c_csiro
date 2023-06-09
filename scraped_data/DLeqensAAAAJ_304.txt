@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Potter", "citation": ""}, "filled": true, "author_pub_id": "DLeqensAAAAJ:HbR8gkJAVGIC", "num_citations": 0, "cites_per_year": {}}

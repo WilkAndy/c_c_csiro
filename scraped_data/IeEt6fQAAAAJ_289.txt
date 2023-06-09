@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Elements: metalloids", "pub_year": 1998, "citation": "Geochemistry, 215-216, 1998", "author": "Graeme E Batley", "pages": "215-216", "publisher": "Springer Netherlands"}, "filled": true, "author_pub_id": "IeEt6fQAAAAJ:ruyezt5ZtCIC", "num_citations": 0, "cites_per_year": {}}

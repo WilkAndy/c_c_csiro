@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Explanation of climate and human impacts on sediment discharge", "citation": ""}, "filled": true, "author_pub_id": "DLeqensAAAAJ:b1wdh0AR-JQC", "num_citations": 0, "cites_per_year": {}}

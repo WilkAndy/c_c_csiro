@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Predicting Afforestation Impacts on Monthly Streamflow", "citation": "", "author": "K Hickel and L Zhang"}, "filled": true, "author_pub_id": "DLeqensAAAAJ:eJXPG6dFmWUC", "num_citations": 0, "cites_per_year": {}}

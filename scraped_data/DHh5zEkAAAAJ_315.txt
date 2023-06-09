@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Key Drivers of Seasonal Plankton Dynamics in Cyclonic and Anticyclonic Eddies off East Australia Front", "citation": ""}, "filled": true, "author_pub_id": "DHh5zEkAAAAJ:bZtZ2VP7DRgC", "num_citations": 0, "cites_per_year": {}}

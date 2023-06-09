@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "MNRAS 363", "pub_year": 2005, "citation": "L21, 2005", "author": "K Bekki and BS Koribalski and VA Kilborn", "journal": "L21"}, "filled": true, "author_pub_id": "BERSPt4AAAAJ:Wq2b2clWBLsC", "num_citations": 0, "cites_per_year": {}}

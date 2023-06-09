@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Risk assessment for the open release of future biotech-nology products: some important issues", "citation": "", "author": "Keith R Hayes and David Peel and Jessica Ford"}, "filled": true, "author_pub_id": "J2ky3HkAAAAJ:k_IJM867U9cC", "num_citations": 0, "cites_per_year": {}}

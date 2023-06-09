@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "DIRECT EXCITATION OF THE TORSIONAL ALFVEN FARADAY SHIELDED ANTENNA", "citation": "", "author": "AB MURPHY"}, "filled": true, "author_pub_id": "4UujAwUAAAAJ:Dem6FJhTUoYC", "num_citations": 0, "cites_per_year": {}}

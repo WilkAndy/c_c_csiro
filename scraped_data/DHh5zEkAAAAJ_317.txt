@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "[PDF] Key Drivers of Seasonal Plankton Dynamics in Cyclonic and Anticyclonic Eddies off East Australia. Front L Laiolo, AS McInnes, R Matear, MA Doblin -", "citation": ""}, "filled": true, "author_pub_id": "DHh5zEkAAAAJ:Dnd9Dw9jpwAC", "num_citations": 0, "cites_per_year": {}}

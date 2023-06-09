@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Signatura: BR0802624.", "citation": "", "author": "LA Mound and MC Zapater"}, "filled": true, "author_pub_id": "SpzvWkYAAAAJ:x21FZCSn4ZoC", "num_citations": 0, "pub_url": "https://scholar.google.com/scholar?cluster=6956114936027553079&hl=en&oi=scholarr", "cites_per_year": {}}

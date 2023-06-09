@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Clustering Via Normal Mixture Models", "citation": "", "author": "D Peel and P Prado and GJ Mclachlan"}, "filled": true, "author_pub_id": "J2ky3HkAAAAJ:ZfRJV9d4-WMC", "num_citations": 0, "cites_per_year": {}}

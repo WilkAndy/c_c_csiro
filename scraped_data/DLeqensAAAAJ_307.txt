@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Simulating runoff under changing climatic conditions: A framework for model improvement.", "citation": ""}, "filled": true, "author_pub_id": "DLeqensAAAAJ:SpbeaW3--B0C", "num_citations": 0, "cites_per_year": {}}

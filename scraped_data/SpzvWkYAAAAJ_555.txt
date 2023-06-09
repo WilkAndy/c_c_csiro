@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Signatura: BR0802104.", "citation": "", "author": "LA Mound and V Pereira"}, "filled": true, "author_pub_id": "SpzvWkYAAAAJ:EaFouW7jFu4C", "num_citations": 0, "pub_url": "https://scholar.google.com/scholar?cluster=7596916100655480345&hl=en&oi=scholarr", "cites_per_year": {}}

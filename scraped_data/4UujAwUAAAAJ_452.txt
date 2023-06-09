@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Reinterpretation of Laser Scattering Measurements of Welding", "citation": "", "author": "Anthony B MURPHY"}, "filled": true, "author_pub_id": "4UujAwUAAAAJ:6bLC7aUMtPcC", "num_citations": 0, "cites_per_year": {}}

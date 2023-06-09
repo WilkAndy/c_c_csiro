@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "\u2018EFFECTS OF METAL VAPOUR ON THE ARC I BEHAVIOUR IN GMA WELDING", "citation": "", "author": "AB MURPHY"}, "filled": true, "author_pub_id": "4UujAwUAAAAJ:uc_IGeMz5qoC", "num_citations": 0, "cites_per_year": {}}

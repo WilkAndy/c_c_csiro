@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Mushrooms and Health", "pub_year": 2012, "citation": "", "author": "Peter Roupas and Christine Margetts and Pennie Taylor and Debra Krause and Manny Noakes"}, "filled": true, "author_pub_id": "FgO4JF8AAAAJ:SuREjsGmJT0C", "num_citations": 0, "cites_per_year": {}}

@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "High dietary intakes of phytosterol esters lower", "citation": "", "author": "Peter M Clifton and Manny Noakes and Donna Ross and Andriana Fassoulakis and Marja Cehun and Paul Nestel"}, "filled": true, "author_pub_id": "FgO4JF8AAAAJ:R4LAE1HziJcC", "num_citations": 0, "cites_per_year": {}}

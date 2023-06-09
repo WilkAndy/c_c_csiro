@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Key Drivers of Seasonal Plankton Dynamics in Cyclonic and", "citation": "", "author": "Liaolo"}, "filled": true, "author_pub_id": "DHh5zEkAAAAJ:7MdmnBSEV98C", "num_citations": 0, "cites_per_year": {}}

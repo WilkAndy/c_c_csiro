@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Automatic release for cable-grips", "pub_year": 1891, "citation": "US Patent 458,432, 1891"}, "filled": true, "author_pub_id": "mSp4V_4AAAAJ:q-HalDI95KYC", "num_citations": 0, "cites_per_year": {}}

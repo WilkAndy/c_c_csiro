@@ -26,7 +26,7 @@ author_names_ids = [(a["name"], a["scholar_id"]) for a in author_list]
 
 ################################################################
 # Concatenate publications into something that may be useful
-for author_name, author_id in author_names_ids:
+for author_name, author_id in author_names_ids[:4]:
     if verbose: sys.stdout.write("Author " + author_name + "\n")
     fns = glob.glob(os.path.join("scraped_data", author_id) + "_*.txt")
     out_str = ''
@@ -49,9 +49,9 @@ for author_name, author_id in author_names_ids:
         csiro_authors = list(set(csiro_authors))
         csiro_authors = " and ".join(csiro_authors)
         abstract = " ".join(abstract.split())
-        out_str += "Title: " + title + "\n"
-        out_str += "CSIRO authors: " + csiro_authors + "\n"
-        out_str += abstract + "\n"
+        out_str += "CSIRO author " + csiro_authors + " "
+        out_str += "published a work with title: " + title + ".  "
+        out_str += "This work is about " + abstract + "\n"
     if len(out_str) > 0:
         out_fn = os.path.join("training_data", author_id + ".txt")
         with open(out_fn, "w") as f:

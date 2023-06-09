@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Thermal plasmas for nanostructure production", "citation": "", "author": "Anthony B Murphy and Eugene Tam and Singapore ICMAT"}, "filled": true, "author_pub_id": "4UujAwUAAAAJ:epqYDVWIO7EC", "num_citations": 0, "cites_per_year": {}}

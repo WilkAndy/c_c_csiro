@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Flow-Mediated Dilatation Is Impaired by a High", "citation": "", "author": "Jennifer B Keogh and Jessica A Grieger and Manny Noakes and Peter M Clifton"}, "filled": true, "author_pub_id": "FgO4JF8AAAAJ:Fp1gVP7Oym8C", "num_citations": 0, "cites_per_year": {}}

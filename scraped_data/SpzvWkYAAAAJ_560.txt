@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Signatura: BR9508813.", "citation": "", "author": "RC Monteiro and RA Zucchi and LA Mound"}, "filled": true, "author_pub_id": "SpzvWkYAAAAJ:GtLg2Ama23sC", "num_citations": 0, "pub_url": "https://scholar.google.com/scholar?cluster=12140576009985597487&hl=en&oi=scholarr", "cites_per_year": {}}

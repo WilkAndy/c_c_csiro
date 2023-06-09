@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "POLAROGRAPHIC DETERMINATION OF URANIUM IN ORES.", "pub_year": 1970, "citation": "", "author": "GE Batley", "number": "AAEC/TM-552"}, "filled": true, "author_pub_id": "IeEt6fQAAAAJ:qwy9JoKyICEC", "num_citations": 0, "pub_url": "https://www.osti.gov/biblio/4121320", "cites_per_year": {}}
