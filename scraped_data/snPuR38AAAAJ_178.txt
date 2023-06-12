@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Sensing & Measurement Model and data work together to reveal microscopic structures of materials", "citation": "", "author": "Sam Yang and John Taylor"}, "filled": true, "author_pub_id": "snPuR38AAAAJ:eJXPG6dFmWUC", "num_citations": 0, "cites_per_year": {}}

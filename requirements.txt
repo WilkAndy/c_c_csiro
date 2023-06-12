@@ -1,0 +1,8 @@
+arrow
+scholarly
+langchain
+numpy
+scipy
+matplotlib
+networkx
+llama_index

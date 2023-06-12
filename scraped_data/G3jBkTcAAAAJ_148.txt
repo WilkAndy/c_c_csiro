@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Untitled", "pub_year": 2017, "citation": "BR Patent App. 112,014,028,122 A, 2017"}, "filled": true, "author_pub_id": "G3jBkTcAAAAJ:F1b5ZUV5XREC", "num_citations": 0, "cites_per_year": {}}

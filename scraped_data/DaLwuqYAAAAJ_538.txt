@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "MongeNet: Efficient Sampler for Geometric Deep Learning Open Website", "citation": "", "author": "Leo Lebrat and Rodrigo Santa Cruz and Clinton Fookes and Olivier Salvado"}, "filled": true, "author_pub_id": "DaLwuqYAAAAJ:rPSSLjQITZsC", "num_citations": 0, "cites_per_year": {}}

@@ -1,0 +1,1 @@
+{"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "unet_lstm - A machine learning model for the spatial and temporal evolution of 2D and 3D fields", "pub_year": 2021, "citation": "CSIRO, 2021", "author": "John Taylor"}, "filled": true, "author_pub_id": "snPuR38AAAAJ:ziOE8S1-AIUC", "num_citations": 0, "cites_per_year": {}}
