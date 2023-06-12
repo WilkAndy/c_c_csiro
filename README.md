@@ -91,7 +91,7 @@ Pros/Cons:
 
 - No upload/download, so can be used for private data
 - Easy to use (just provide it some data)
-- Poor results, see below
+- Poor results, see below.  TODO: explore further - hopefully I can get better results
 - Free
 
 When trained on json files containing all Pep's titles and abstracts (produced by [scrape.py](scrape.py)), and queried with "In 100-200 words, what are the scientific themes that Pep Canadell from CSIRO has published on?", privateGPT responded with:
