@@ -1,3 +1,11 @@
+########################################################################
+# Scrapes data from GoogleScholar using the scholarly python package
+# Attempts to retrieve all abstracts written by all CSIRO authors
+# A proxy is needed, otherwise GoogleScholar will ban you.  The use of
+# a proxy means you may not be able to run this behind a firewall
+# or similar.
+########################################################################
+
 import sys
 import os
 import json
