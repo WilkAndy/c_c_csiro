@@ -2,7 +2,7 @@
 
 Most scientific authors publish on a small handful of themes.  Suppose we want to find those themes by analysing the abstracts of the author's publications.  This page summarises various ways, along with some pros and cons, of achieving this.  I'm going to use Pep Canadell from CSIRO as my test subject, because he is highly cited.  Using [scrape.py](scrape.py), 403 titles and abstracts written by Pep were retrieved from Google Scholar.
 
-## Use ChatGPT
+## ChatGPT
 
 Pros/Cons:
 
@@ -28,7 +28,7 @@ Pros/Cons:
 
 > "Dr. Pep Canadell's research and publications have helped advance our understanding of the global carbon cycle and its interactions with climate change. His work has been influential in shaping climate change mitigation strategies and informing climate policies at national and international levels."
 
-## Use [CustomGPT](https://app.customgpt.ai/)
+## [CustomGPT](https://app.customgpt.ai/)
 
 Pros/Cons:
 
@@ -49,14 +49,32 @@ Pros/Cons:
 > " 6. Interdisciplinary joint projects on carbon, food, water, and health, and their role in advancing integrated Earth system knowledge.
 > " 7. The global carbon cycle as a test of our knowledge of Earth as a system, focusing on the role of individual components in the global carbon cycle due to human activities since the Industrial Revolution.
 
+## Vector and query using Llama index
+
+The abstracts are concatenated and loaded into a `VectorStoreIndex`, which is then queried.  See code [vector_and_query.py](vector_and_query.py)
+
+Pros/Cons:
+
+- Able to train on any data supplied
+- Simple code
+- Appears to give reasonable results.  However, the code [vector_and_query.py](vector_and_query.py) contains two versions of the input data, and one of these gives much poorer results
+- About USD0.2 for each query
+
+
+> My prompt: "In 100-200 words, what are the scientific themes that Pep Canadell from CSIRO has published on?"
+
+> Completion Version 1: "Pep Canadell from CSIRO has published on a variety of scientific themes related to the Earth System Science Initiative. In his 2000 publication, "Non-linear Responses and Surprises: A New Earth System Science Initiative," Canadell discusses the impacts of human land use and land cover changes on the Earth surface-atmosphere system, including the carbon budget, ecosystems, and hydrology. He also proposes a joint effort between PAGES, LUCC, and GAIM to reconstruct global patterns of land use and associated land cover changes since AD 1700. This work would involve a unique intersection of the interests and skills of archaeologists, historians, economists, demographers, ecologists, paleoecologists, palynologists, as well as ecological, climatic, and carbon-cycle modelers.  In his 2022 publication, "Ten New Insights in Climate Science 2022," Canadell summarizes what he assesses as the past year's most important findings within climate change research. These insights include: (1) new aspects of soft and hard limits to adaptation; (2) the emergence of regional vulnerability hotspots from climate impacts and human vulnerability; (3) new threats coming from the climate-health nexus; (4) climate (im)mobility and security; (5) sustainable practices for land use and finance; (6) losses and damages; (7) inclusive societal climate decisions; and (8) ways to overcome structural barriers to accelerate mitigation and limit global warming to below 2°C."
+
+> Completion Version 2: "Pep Canadell from CSIRO has published on a variety of scientific themes related to climate change and its impacts on ecosystems. His works have focused on the emergence of regional vulnerability hotspots from climate impacts and human vulnerability, advancing knowledge on the global carbon cycle and its management, the large and persistent carbon sink in the world's forests, ecosystem collapse and climate change, the maximum rooting depth for vegetation types at the global scale, the impacts of decadal climate trends on Australian vegetation, climate change increasing the risk of wildfires, the structure and dynamics of the root system, moving toward net-zero emissions and the need for new alliances for carbon dioxide removal, reconciling top-down and bottom-up approaches for terrestrial CO2 budget, and the vulnerability of permafrost carbon to climate change and its implications for the global carbon cycle."
+
 ## Embed, cluster, chain-summarize using LangChain and OpenAI
 
 The code is described in full in [embed_cluster_chain_summarise.py](embed_cluster_chain_summarise.py).  In short, the abstracts are embedded (using `OpenAIEmbeddings`), clustered into a small number of topics (using `networkx.algorithms.community.louvain_communities`), then each topic is summarised (using `langchain.chains.summarize` and an OpenAI `text-davinci-003`) and a final summary is produced.
 
 Pros/Cons:
 
-- Customisable
-- Coding required
+- Code is flexible, but coding is required (of course, you can just use [embed_cluster_chain_summarise.py](embed_cluster_chain_summarise.py) in this case)
+- Customisable to any data
 - Appears to give reasonable results
 - Costs about USD4 to embed and summarise Pep's 403 abstracts
 
@@ -67,9 +85,7 @@ Output:
 
 
 
-
-
-## Getting started
+## Running the code
 
 I'm using python 3.10.  Probably later versions work fine.  The required python packages may be installed using:
 
