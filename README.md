@@ -83,6 +83,24 @@ Output:
 > "Overall themes": "Global Carbon Cycle, Carbon-Climate Feedback, Responses to Climate Extremes, Effects of Global Warming on Carbon Cycle, Effects of Rising CO2 Concentrations, Interactions between Carbon Cycle, Human Activity, and Climate System, Effects of Land Use Change on Carbon Cycle, Human Perturbation of Carbon Cycle, Vulnerability of Permafrost Carbon to Climate Change, Potential Feedbacks from Terrestrial Ecosystems to Atmosphere, Rate and Form of Release of Carbon, Impact of Climate Extremes on Terrestrial Carbon Cycle, Role of Peatlands in Global Carbon Cycle, Potential Future Impacts of Climate Change on Carbon Cycle, Nitrogen Budget, Methane Emissions, Nitrous Oxide Emissions, Global Methane Budget, Methane Removal, Methane Hydrates, Fluxnet, Nitrous Oxide Budget, Tree Exchange of Nitrous Oxide, Top-Down and Bottom-Up Approaches to Nitrous Oxide Budget, Biogeochemical Cycles of Carbon Dioxide, Methane and Nitrous Oxide, Nitrous Oxide Mitigation Potential, Greenhouse Gases, Hydroxyl Radicals, Atmospheric Inversions, El Nino Events, Process-Based Models, Inventories, Data-Driven Approaches, Observational"
 
 
+## [PrivateGPT](https://github.com/imartinez/privateGPT)
+
+[PrivateGPT](https://github.com/imartinez/privateGPT) uses LangChain tools to create embeddings locally using HuggingFaceEmbeddings (SentenceTransformers). It then stores the result in a local vector database using Chroma vector store.  To complete prompts, it uses LangChain's GPT4All or LlamaCpp (depends on the model downloaded).
+
+Pros/Cons:
+
+- No upload/download, so can be used for private data
+- Easy to use (just provide it some data)
+- Poor results, see below
+- Free
+
+When trained on json files containing all Pep's titles and abstracts (produced by [scrape.py](scrape.py)), and queried with "In 100-200 words, what are the scientific themes that Pep Canadell from CSIRO has published on?", privateGPT responded with:
+
+> Without more specific information about which topic or time period you refer to in your question and how it relates specifically to Pep Canadell's research output as an author of a particular journal publication series (CSIRO), I cannot provide the answer. However, generally speaking, scientific themes that authors publish on can vary widely depending upon their individual focus areas within specific subfields or fields such as genetics/genomics studies in life sciences and computational biology techniques used to analyze genomic data for example
+
+When trained on a single json file containing paragraphs of Pep's titles and abstracts (produced by [preprocess.py](preprocess.py)), and queried with "In 100-200 words, what are the scientific themes that Pep Canadell from CSIRO has published on?", privateGPT responded with:
+
+> To answer this question accurately and completely, I would need more context as there have been multiple authors named "Pep Canadello" who work for different organizations. Without further information or a specific topic to focus upon, it is difficult to provide an accurate response without the necessary details about their publications related to scientific themes in 100-200 words each
 
 
 ## Running the code
